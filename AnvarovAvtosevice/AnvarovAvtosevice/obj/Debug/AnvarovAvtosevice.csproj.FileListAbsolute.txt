@@ -18,3 +18,10 @@ D:\Учёба\Разработка программных модулей\Лаб�
 D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AddEditPage.baml
 D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\ServicePage.baml
 D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\App.baml
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.dll
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.xml
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice_Content.g.cs
+D:\Учёба\Разработка программных модулей\Лаба 1\Каркас\AnvarovAvtoservice\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice.csproj.CopyComplete

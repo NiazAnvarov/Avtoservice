@@ -23,6 +23,11 @@ namespace AnvarovAvtosevice
         public ServicePage()
         {
             InitializeComponent();
+
+            List<Service> currentServices = Anvarov_avtoserviceEntities.GetContext().Service.ToList();
+
+            ServiceListView.ItemsSource = currentServices;
+
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
