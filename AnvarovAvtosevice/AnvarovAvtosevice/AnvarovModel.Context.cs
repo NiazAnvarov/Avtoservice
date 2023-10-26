@@ -17,10 +17,13 @@ namespace AnvarovAvtosevice
     {
 
         private static Anvarov_avtoserviceEntities _context;
+
         public static Anvarov_avtoserviceEntities GetContext()
         {
-            if (_context == null)
+            if(_context == null)
+            {
                 _context = new Anvarov_avtoserviceEntities();
+            }
 
             return _context;
         }

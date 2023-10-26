@@ -47,7 +47,7 @@ namespace AnvarovAvtosevice
             if (_currentServise.Discount < 0 || _currentServise.Discount >100)
                 errors.AppendLine("Не правильная скидка");
 
-            if (string.IsNullOrWhiteSpace(_currentServise.Duration))
+            if (string.IsNullOrWhiteSpace(_currentServise.Duration.ToString()))
                 errors.AppendLine("Укажите длительность услуги");
 
             if (string.IsNullOrWhiteSpace(_currentServise.Discount.ToString()))

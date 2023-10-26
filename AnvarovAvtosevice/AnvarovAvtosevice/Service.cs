@@ -23,7 +23,7 @@ namespace AnvarovAvtosevice
     
         public int ID { get; set; }
         public string Title { get; set; }
-        public string Duration { get; set; }
+        public int Duration { get; set; }
         public decimal Cost { get; set; }
         public Nullable<double> Discount { get; set; }
         public string Description { get; set; }
